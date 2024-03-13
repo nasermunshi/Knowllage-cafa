@@ -1,0 +1,43 @@
+[
+  {
+    "ID": 1,
+    "Cover": "cover_image1.jpg",
+    "Title": "The Enigmatic Forest",
+    "Author": "Samantha J. Smith",
+    "Author_img": "https://i.ibb.co/9WRJ0BG/blogging-gone-viral-camera-concept.jpg",
+    "Posted_date": "2024-03-10",
+    "Reading_time": "25 minutes",
+    "Hashtags": ["#fantasy", "#mystery", "#adventure"]
+  },
+  {
+    "ID": 2,
+    "Cover": "cover_image2.jpg",
+    "Title": "Beyond the Stars",
+    "Author": "James T. Anderson",
+    "Author_img": "https://i.ibb.co/9WRJ0BG/blogging-gone-viral-camera-concept.jpg",
+    "Posted_date": "2024-03-08",
+    "Reading_time": "30 minutes",
+    "Hashtags": ["#sciencefiction", "#exploration", "#aliens"]
+  },
+  {
+    "ID": 3,
+    "Cover": "cover_image3.jpg",
+    "Title": "Secrets of the Lost Temple",
+    "Author": "Emily K. Brown",
+    "Author_img": "https://i.ibb.co/9WRJ0BG/blogging-gone-viral-camera-concept.jpg",
+    "Posted_date": "2024-03-05",
+    "Reading_time": "40 minutes",
+    "Hashtags": ["#adventure", "#archaeology", "#mystery"]
+  },
+  {
+    "ID": 4,
+    "Cover": "cover_image4.jpg",
+    "Title": "The Phantom Detective",
+    "Author": "David M. Johnson",
+    "Author_img": "https://i.ibb.co/9WRJ0BG/blogging-gone-viral-camera-concept.jpg",
+    "Posted_date": "2024-03-12",
+    "Reading_time": "35 minutes",
+    "Hashtags": ["#detective", "#thriller", "#suspense"]
+  }
+  
+]
