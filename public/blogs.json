@@ -1,7 +1,7 @@
 [
   {
     "ID": 1,
-    "Cover": "cover_image1.jpg",
+    "Cover": "https://i.ibb.co/4VWDyR5/naser.jpg",
     "Title": "The Enigmatic Forest",
     "Author": "Samantha J. Smith",
     "Author_img": "https://i.ibb.co/9WRJ0BG/blogging-gone-viral-camera-concept.jpg",
@@ -11,7 +11,7 @@
   },
   {
     "ID": 2,
-    "Cover": "cover_image2.jpg",
+    "Cover": "https://i.ibb.co/4VWDyR5/naser.jpg",
     "Title": "Beyond the Stars",
     "Author": "James T. Anderson",
     "Author_img": "https://i.ibb.co/9WRJ0BG/blogging-gone-viral-camera-concept.jpg",
@@ -21,7 +21,7 @@
   },
   {
     "ID": 3,
-    "Cover": "cover_image3.jpg",
+    "Cover": "https://i.ibb.co/4VWDyR5/naser.jpg",
     "Title": "Secrets of the Lost Temple",
     "Author": "Emily K. Brown",
     "Author_img": "https://i.ibb.co/9WRJ0BG/blogging-gone-viral-camera-concept.jpg",
@@ -31,7 +31,7 @@
   },
   {
     "ID": 4,
-    "Cover": "cover_image4.jpg",
+    "Cover": "https://i.ibb.co/4VWDyR5/naser.jpg",
     "Title": "The Phantom Detective",
     "Author": "David M. Johnson",
     "Author_img": "https://i.ibb.co/9WRJ0BG/blogging-gone-viral-camera-concept.jpg",
